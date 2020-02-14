@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-13T23:14:50 ART" name="search.searchTest" finished-at="2020-02-13T23:16:29 ART" duration-ms="99157">
+    <groups>
+    </groups>
+    <test started-at="2020-02-13T23:14:50 ART" name="Command line test" finished-at="2020-02-13T23:16:29 ART" duration-ms="99157">
+      <class name="search.searchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:14:50 ART" name="setUp" finished-at="2020-02-13T23:15:03 ART" duration-ms="13358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Dropdowns()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:03 ART" name="Dropdowns" finished-at="2020-02-13T23:15:05 ART" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdowns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:05 ART" name="tearDown" finished-at="2020-02-13T23:15:06 ART" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:06 ART" name="setUp" finished-at="2020-02-13T23:15:17 ART" duration-ms="11490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="authError()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:17 ART" name="authError" finished-at="2020-02-13T23:15:21 ART" duration-ms="3366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:21 ART" name="tearDown" finished-at="2020-02-13T23:15:22 ART" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:22 ART" name="setUp" finished-at="2020-02-13T23:15:34 ART" duration-ms="12145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchExist()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:34 ART" name="searchExist" finished-at="2020-02-13T23:15:35 ART" duration-ms="1212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchExist -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:35 ART" name="tearDown" finished-at="2020-02-13T23:15:36 ART" duration-ms="988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:36 ART" name="setUp" finished-at="2020-02-13T23:15:48 ART" duration-ms="11923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchNoExist()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:48 ART" name="searchNoExist" finished-at="2020-02-13T23:15:50 ART" duration-ms="1612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchNoExist -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:50 ART" name="tearDown" finished-at="2020-02-13T23:15:50 ART" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:15:50 ART" name="setUp" finished-at="2020-02-13T23:16:03 ART" duration-ms="12426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="summerDress()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:16:03 ART" name="summerDress" finished-at="2020-02-13T23:16:09 ART" duration-ms="6321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summerDress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:16:09 ART" name="tearDown" finished-at="2020-02-13T23:16:10 ART" duration-ms="864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:16:10 ART" name="setUp" finished-at="2020-02-13T23:16:22 ART" duration-ms="12391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="women()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:16:22 ART" name="women" finished-at="2020-02-13T23:16:28 ART" duration-ms="5532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:search.searchTest@a74868d]" started-at="2020-02-13T23:16:28 ART" name="tearDown" finished-at="2020-02-13T23:16:29 ART" duration-ms="854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- search.searchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- search.searchTest -->
+</testng-results>
